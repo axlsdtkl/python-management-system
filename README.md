@@ -1,5 +1,6 @@
-#python代码轮子demo
-##python版本的羽毛球比赛数据管理系统
+# python代码轮子demo
+
+## python版本的羽毛球比赛数据管理系统
 2021.6.2
 连接mysql数据库，数据库表为badminton
 可以增删改查排序运行员信息
